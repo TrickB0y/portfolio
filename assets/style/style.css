@@ -49,6 +49,8 @@ header a {
     background-color: #dedad7;
     color: #2c3333;
     border-radius: 17px;
+    transition: background-color 0.15s,
+                color 0.15s;
 }
 
 header a:visited {
